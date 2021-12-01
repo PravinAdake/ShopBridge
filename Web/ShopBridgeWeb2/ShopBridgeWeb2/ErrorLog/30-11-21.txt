@@ -1,0 +1,48 @@
+-----------Exception Details on  11/30/2021 8:32:23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/30/2021 8:32:23 PM
+
+Error Line No : dGrid()
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : This instance has already started one or more requests. Properties can only be modified before sending the first request.
+
+ Error Page Url: https://localhost:44325/Inventory
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/30/2021 8:32:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 11/30/2021 8:32:58 PM
+
+Error Line No : dGrid()
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : This instance has already started one or more requests. Properties can only be modified before sending the first request.
+
+ Error Page Url: https://localhost:44325/Inventory
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

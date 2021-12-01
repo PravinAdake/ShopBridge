@@ -1,0 +1,10 @@
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeRepository\bin\Debug\ShopBridgeRepository.dll
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeRepository\bin\Debug\ShopBridgeRepository.pdb
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeRepository\bin\Debug\ShopBridgeModel.dll
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeRepository\bin\Debug\ShopBridgeModel.pdb
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeRepository\bin\Debug\ShopBridgeModel.dll.config
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeRepository\obj\Debug\ShopBridgeRepository.csprojAssemblyReference.cache
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeRepository\obj\Debug\ShopBridgeRepository.csproj.CoreCompileInputs.cache
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeRepository\obj\Debug\ShopBridgeRepository.csproj.CopyComplete
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeRepository\obj\Debug\ShopBridgeRepository.dll
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeRepository\obj\Debug\ShopBridgeRepository.pdb

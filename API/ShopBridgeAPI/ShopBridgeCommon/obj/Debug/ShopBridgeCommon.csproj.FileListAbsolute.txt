@@ -1,0 +1,5 @@
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeCommon\bin\Debug\ShopBridgeCommon.dll
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeCommon\bin\Debug\ShopBridgeCommon.pdb
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeCommon\obj\Debug\ShopBridgeCommon.csproj.CoreCompileInputs.cache
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeCommon\obj\Debug\ShopBridgeCommon.dll
+E:\Projects\VS2019\API\ShopBridgeAPI\ShopBridgeCommon\obj\Debug\ShopBridgeCommon.pdb
